@@ -440,19 +440,19 @@ KooberUserSessionRepository의 의존성 그래프
 
 ## 온디멘드 접근 적용하기
 
-[온디멘드 접근법 적용하기(잘안쓰임)](https://github.com/pastapeter/MVVM_STUDY/blob/main/Document/%EC%98%A8%EB%94%94%EB%A9%98%EB%93%9C%20%EC%A0%91%EA%B7%BC%EB%B2%95%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0(%EC%9E%98%EC%95%88%EC%93%B0%EC%9E%84).md)
+[온디멘드 접근법 적용하기(잘안쓰임)](https://github.com/pastapeter/iOS-BUG-FIX-STUDY/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85/%EC%98%A8%EB%94%94%EB%A9%98%EB%93%9C%20%EC%A0%91%EA%B7%BC%EB%B2%95%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0(%EC%9E%98%EC%95%88%EC%93%B0%EC%9E%84).md)
 
 ## 팩토리 접근법 적용하기
 
-[팩토리 접근법 적용하기](https://github.com/pastapeter/MVVM_STUDY/blob/main/Document/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%A0%91%EA%B7%BC%EB%B2%95%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+[팩토리 접근법 적용하기](https://github.com/pastapeter/iOS-BUG-FIX-STUDY/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85/%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%A0%91%EA%B7%BC%EB%B2%95%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 ## 싱글 컨테이너 접근법 적용하기
 
-[싱글컨테이너 접근법](https://github.com/pastapeter/MVVM_STUDY/blob/main/Document/%EC%8B%B1%EA%B8%80%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%A0%91%EA%B7%BC%EB%B2%95.md)
+[싱글컨테이너 접근법](https://github.com/pastapeter/iOS-BUG-FIX-STUDY/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85/%EC%8B%B1%EA%B8%80%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%A0%91%EA%B7%BC%EB%B2%95.md)
 
 ## 컨테이너 계층 접근법 적용하기
 
-[컨테이너 계층 접근법 적용하기](https://github.com/pastapeter/MVVM_STUDY/blob/main/Document/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EA%B3%84%EC%B8%B5%20%EC%A0%91%EA%B7%BC%EB%B2%95%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+[컨테이너 계층 접근법 적용하기](https://github.com/pastapeter/iOS-BUG-FIX-STUDY/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EA%B3%84%EC%B8%B5%20%EC%A0%91%EA%B7%BC%EB%B2%95%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 ## 키포인트
 
