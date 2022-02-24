@@ -27,4 +27,9 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 나도 버그를 잡으면서 성장하고, 다른 사람들도 이 글을 보고 같이 성장하고, 이 글에 같이 오류 잡은 내용도 올려줘서 같이 하나의 레포를 만들면 좋을 것 같다.
 
 ## What
+### BUG
 - [클로저의 Memory Leak](https://guttural-tumble-39b.notion.site/Memory-Leak-7546ddb167b541d7b5c02d97f6cdec64)
+
+
+### Pattern & Architecture
+- [Repository pattern](https://github.com/Moms-Touch/MVVM_STUDY/blob/main/Document/Repository%20Pattern.md)
