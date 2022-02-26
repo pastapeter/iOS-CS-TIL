@@ -29,6 +29,7 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 ## What
 ### BUG
 - [클로저의 Memory Leak](https://guttural-tumble-39b.notion.site/Memory-Leak-7546ddb167b541d7b5c02d97f6cdec64)
+- [Cannot use mutating member on immutable value: 'self' is immutable 애러](https://guttural-tumble-39b.notion.site/Cannot-use-mutating-member-on-immutable-value-self-is-immutable-6f9ed1a7705746818c4a8c43bd1d9a85)
 
 
 ### Pattern & Architecture
