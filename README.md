@@ -31,7 +31,7 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 ### BUG
 - [클로저의 Memory Leak](https://guttural-tumble-39b.notion.site/Memory-Leak-7546ddb167b541d7b5c02d97f6cdec64)
 - [Cannot use mutating member on immutable value: 'self' is immutable 애러](https://guttural-tumble-39b.notion.site/Cannot-use-mutating-member-on-immutable-value-self-is-immutable-6f9ed1a7705746818c4a8c43bd1d9a85)
-- [Closure is already escaping in optional type argument, 기본적으로 escaping closure, 기본적으로 non-escaping closure???](https://guttural-tumble-39b.notion.site/Closure-is-already-escaping-in-optional-type-argument-6ad748c18b1047769171af8fb451372e)
+- [변수의 형으로 @escapingClosure는 왜 안되는가?, Closure is already escaping in optional type argument](https://guttural-tumble-39b.notion.site/Closure-is-already-escaping-in-optional-type-argument-6ad748c18b1047769171af8fb451372e)
 
 
 ### Pattern & Architecture
