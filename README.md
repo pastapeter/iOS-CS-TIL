@@ -39,6 +39,7 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 - [Repository pattern](https://github.com/Moms-Touch/MVVM_STUDY/blob/main/Document/Repository%20Pattern.md)
 - [의존성 주입 - DI Pattern을 어떻게 구성할까? Inversion of Convergence Container를 코드로 작성하기](https://github.com/pastapeter/iOS-BUG-FIX-STUDY/blob/master/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85/Objects%20%26%20Their%20Dependencies.md)
 - [RIBs 스터디](https://github.com/pastapeter/RIBsTutorial)
+- [클린아키택처 Part1, 어디까지가 Usecase, 도메인Layer 작성할때 고려한 점](https://github.com/pastapeter/iOS-BUG-FIX-STUDY-TIL-/blob/master/CleanArchitecture/CleanArchitecture_part1.md)
 
 
 
