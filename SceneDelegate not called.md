@@ -52,8 +52,9 @@ Information about the objects and storyboard for UIKit to use when creating a pa
 ```
 
 ### 나온 이유
+iOS 13 이후부터 여러 Scene이 하나의 화면에 보여질 수 있기 때문에! Apple Documenet를 보면,
 
-iOS 13 및 이후 버전에서는 사용자가 앱 UI의 여러 복사본을 만들고 앱 전환기에서 그 사이를 전환할 수 있다. iPad에서 사용자는 앱 UI의 한 복사본을 다른 복사본과 나란히 표시할 수도 있다. 앱 UI의 각 복사본에 대해 scene object를 사용하여 화면에 UI를 표시하는 창, 보기 및 보기 컨트롤러를 관리한다.
+iOS 13 및 이후 버전에서는 사용자가 앱 UI의 여러 복사본을 만들고 App Switcher에서 그 사이를 전환할 수 있다. iPad에서 사용자는 앱 UI의 한 복사본을 다른 복사본과 나란히 표시할 수도 있다. 앱 UI의 각 복사본에 대해 scene object를 사용하여 화면에 UI를 표시하는 창, 보기 및 보기 컨트롤러를 관리한다.
 
 새로운 Scene이 불릴때, UIKit은 해당 장면 객체를 만들고 초기 설정을 처리합니다. 그렇게 하기 위해, UIKit은 제공된 정보에 의존한다. 앱은 지원하는 Scene의 유형과 해당 Scene을 관리하는 데 사용하는 개체를 선언해야 한다. 앱의 Info.plist 파일에서 정적으로 또는 런타임에 동적으로 할 수 있다.
 
