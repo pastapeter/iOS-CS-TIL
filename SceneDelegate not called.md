@@ -1,13 +1,12 @@
 # SceneDelegate not called
 
-## UISceneDelegate
+### UISceneDelegate
 
 UISceneDelegate를 사용해서 앱 사용자의 인터페이스의 하나의 인스턴스 내부의 생애주기 이벤트를 관리할 수 있다. 여기서 말하는 사용자의 인터페이스는 Scene이 foreground에 들어가서 활성화될 때와 background로 들어갈때를 포함하여, 상태 전환에 응답하는 메서드가 존재한다. 개발자는 이러한 전환이 발생할때, UISceneDelegate의 대리자(SceneDelegate) 내의 메서드를 적절하게 정의할 수 있다.
 
-<aside>
+```
 💡 UISceneDelegate 객체를 직접 만들면 안된다. scene의 configuration data의 일부로 사용자 지정 대리자 클래스의 이름을 지정하십시오. (여기서 말하는 SceneDelegate)
-
-</aside>
+```
 
 앱의 Info.plist 파일이나 AppDelegate 의 application(_:configurationForConnecting:options:) 메서드에서 반환하는 UISceneConfiguration 객체 내부에서 씬의 configuration data를 정할 수 있다.
 
@@ -48,10 +47,9 @@ Information about the objects and storyboard for UIKit to use when creating a pa
 
 ## SceneDelegate?
 
-<aside>
+```
 💡 In iOS 13 and later, use `[UISceneDelegate](https://developer.apple.com/documentation/uikit/uiscenedelegate)` objects to respond to life-cycle events in a scene-based app. In iOS 12 and earlier, use the `[UIApplicationDelegate](https://developer.apple.com/documentation/uikit/uiapplicationdelegate)` object to respond to life-cycle events.
-
-</aside>
+```
 
 ### 나온 이유
 
@@ -85,3 +83,8 @@ UIKit은 사용자나 앱이 요청하는 앱 UI의 각 인스턴스에 대한 S
 UISceneSession 객체는 scene의 고유한 런타임 인스턴스를 관리합니다. 사용자가 앱에 새 scene을 추가하거나 요청할 때, 시스템은 해당 scene을 추적하기 위해 UISceneSession 객체를 만듭니다. Session에는 고유한 식별자와 scene의 구성 세부 사항이 포함되어 있습니다. UIKit은 장면 자체의 수명 동안 session 정보를 유지하며, 사용자가 앱 스위처에서 장면을 닫는 것에 대한 응답으로 session을 파괴합니다.
 
 세션 객체를 직접 만들지 않습니다. UIKit은 앱과의 사용자 상호 작용에 대응하여 세션을 생성합니다. UIApplication의 requestSceneSessionActivation(_:userActivity:options:errorHandler:) 메서드를 호출하여 UIKit에게 프로그래밍 방식으로 새 장면과 세션을 생성하도록 요청할 수도 있습니다. UIKit은 앱의 Info.plist 파일의 내용을 기반으로 기본 구성 데이터로 세션을 초기화합니다.
+
+## Reference
+https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app
+https://developer.apple.com/documentation/uikit/uisceneconfiguration
+https://lena-chamna.netlify.app/post/appdelegate_and_scenedelegate/
