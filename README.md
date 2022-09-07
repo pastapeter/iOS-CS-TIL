@@ -53,7 +53,7 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 - [Simulator VS Real Device](https://guttural-tumble-39b.notion.site/29d7405c75cb4d3d9f9b7f3e944a965b)
 - [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체? Viewcontroller에 대한 고찰(Except lifecycle)](https://guttural-tumble-39b.notion.site/ViewController-87943b7be2eb41aabc7d92b0a5c0955e)
 - [앱 콘텐츠나 데이터 자체를 저장하는 특별한 객체는 뭐가 있고, 어떤 방식으로 객체를 정하는가(About FileSystem, UserDefault, Propertylist, Keychain, database)](https://guttural-tumble-39b.notion.site/00b77732c86447a4a9c8435d9375e868)
-
+- [CollectionView Cell 최적화 크기 찾기](https://github.com/Moms-Touch/MOMO/wiki/collectionView-cell%EC%9D%98-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%81%AC%EA%B8%B0-%EC%B0%BE%EA%B8%B0)
 
 ### Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
