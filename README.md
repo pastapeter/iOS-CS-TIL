@@ -55,7 +55,7 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 - [앱 콘텐츠나 데이터 자체를 저장하는 특별한 객체는 뭐가 있고, 어떤 방식으로 객체를 정하는가(About FileSystem, UserDefault, Propertylist, Keychain, database)](https://guttural-tumble-39b.notion.site/00b77732c86447a4a9c8435d9375e868)
 - [CollectionView Cell 최적화 크기 찾기](https://github.com/Moms-Touch/MOMO/wiki/collectionView-cell%EC%9D%98-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%81%AC%EA%B8%B0-%EC%B0%BE%EA%B8%B0)
 - [App thinning](https://guttural-tumble-39b.notion.site/App-thinning-cc2b9444268e40a29a6b145736854036)
-
+- [UIApplicationMain()에 의해 생성되는 객체와 델리게이트](https://guttural-tumble-39b.notion.site/main-c-UIApplicationMain-b484fd5b7a214ec9ade185591a3d136c)
 
 ### Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
