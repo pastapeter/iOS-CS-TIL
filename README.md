@@ -56,6 +56,7 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 - [CollectionView Cell 최적화 크기 찾기](https://github.com/Moms-Touch/MOMO/wiki/collectionView-cell%EC%9D%98-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%81%AC%EA%B8%B0-%EC%B0%BE%EA%B8%B0)
 - [App thinning](https://guttural-tumble-39b.notion.site/App-thinning-cc2b9444268e40a29a6b145736854036)
 - [UIApplicationMain()에 의해 생성되는 객체와 델리게이트](https://guttural-tumble-39b.notion.site/main-c-UIApplicationMain-b484fd5b7a214ec9ade185591a3d136c)
+- [@main에 대해서](https://guttural-tumble-39b.notion.site/main-006e2bb0849f488eb209f9fb1207c99d)
 
 ### Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
