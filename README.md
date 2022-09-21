@@ -57,6 +57,9 @@ iOS 를 공부하면서 혼자 했던 스터디, 스터디 팀원들과 함께 �
 - [App thinning](https://guttural-tumble-39b.notion.site/App-thinning-cc2b9444268e40a29a6b145736854036)
 - [UIApplicationMain()에 의해 생성되는 객체와 델리게이트](https://guttural-tumble-39b.notion.site/main-c-UIApplicationMain-b484fd5b7a214ec9ade185591a3d136c)
 - [@main에 대해서](https://guttural-tumble-39b.notion.site/main-006e2bb0849f488eb209f9fb1207c99d)
+- [Foreground vs Background](https://guttural-tumble-39b.notion.site/foreground-background-1988f2dca5534e5e898f2cd7a747fa30)
+
+
 
 ### Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
