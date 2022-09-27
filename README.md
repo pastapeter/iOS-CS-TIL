@@ -3,7 +3,7 @@
 > iOS 앱을 개발하거나, 리펙토링하면서 내가 찾는 버그들을 해결해나가는 과정을 적고 있습니다. 개인 토이프로젝트, 팀 프로젝트를 리펙토링하면서 메모리 누수 및 다양한 버그를 찾아내고 있습니다. 또한 이러한 repository로 다양한 사람들이 어떻게 버그를 고쳤는지 알고, 또한 iOS 앱 리펙터링을 하면서 어떻게? 왜? 했는지를 파악하면 좋겠다는 의미로 repository를 팝니다.
 > 그리고 공부한 내용을 바탕으로 글을 쓴 내용을 정리합니다
 
-##BUG🐛
+## BUG🐛
 - [클로저의 Memory Leak🚨](https://guttural-tumble-39b.notion.site/Memory-Leak-7546ddb167b541d7b5c02d97f6cdec64)
 - [Cannot use mutating member on immutable value: 'self' is immutable 애러🚨](https://guttural-tumble-39b.notion.site/Cannot-use-mutating-member-on-immutable-value-self-is-immutable-6f9ed1a7705746818c4a8c43bd1d9a85)
 - [변수의 형으로 @escapingClosure는 왜 안되는가?, Closure is already escaping in optional type argument🚨](https://guttural-tumble-39b.notion.site/Closure-is-already-escaping-in-optional-type-argument-6ad748c18b1047769171af8fb451372e)
