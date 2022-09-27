@@ -34,7 +34,7 @@
 - [@main에 대해서](https://guttural-tumble-39b.notion.site/main-006e2bb0849f488eb209f9fb1207c99d)
 - [Foreground vs Background](https://guttural-tumble-39b.notion.site/foreground-background-1988f2dca5534e5e898f2cd7a747fa30)
 - [App state를 관리하는 AppDelegate(SceneDelegate)의 메서드](https://guttural-tumble-39b.notion.site/77b8729197a94496a35f52760c210485)
-
+- [SceneDelegate, UIScene, UISceneSession, UIWindowScene](https://guttural-tumble-39b.notion.site/SceneDelegate-b64c0338b84244328ed35678e7ebc72a)
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
