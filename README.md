@@ -36,6 +36,7 @@
 - [App state를 관리하는 AppDelegate(SceneDelegate)의 메서드](https://guttural-tumble-39b.notion.site/77b8729197a94496a35f52760c210485)
 - [SceneDelegate, UIScene, UISceneSession, UIWindowScene](https://guttural-tumble-39b.notion.site/SceneDelegate-b64c0338b84244328ed35678e7ebc72a)
 - [Unattached, Foreground-Inactive, Foreground-Active, Background, Suspended](https://guttural-tumble-39b.notion.site/Unattached-Foreground-Inactive-Foreground-Active-Background-Suspended-77fb48c20f8942698462a15c0c4f0ccd)
+- [GCD API 동작 방식과 필요성](https://guttural-tumble-39b.notion.site/GCD-API-f371b438ade84212a581d9bac9c19139)
 
 
 ## Test
