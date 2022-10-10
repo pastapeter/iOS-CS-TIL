@@ -37,7 +37,7 @@
 - [SceneDelegate, UIScene, UISceneSession, UIWindowScene](https://guttural-tumble-39b.notion.site/SceneDelegate-b64c0338b84244328ed35678e7ebc72a)
 - [Unattached, Foreground-Inactive, Foreground-Active, Background, Suspended](https://guttural-tumble-39b.notion.site/Unattached-Foreground-Inactive-Foreground-Active-Background-Suspended-77fb48c20f8942698462a15c0c4f0ccd)
 - [GCD API 동작 방식과 필요성](https://guttural-tumble-39b.notion.site/GCD-API-f371b438ade84212a581d9bac9c19139)
-
+- [PresentingViewController as? UINavigationController](https://guttural-tumble-39b.notion.site/PresentingViewController-as-UINavigationController-aa39b0caae9d439ab03502f14997b663)
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
