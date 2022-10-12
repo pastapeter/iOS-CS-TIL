@@ -38,6 +38,8 @@
 - [Unattached, Foreground-Inactive, Foreground-Active, Background, Suspended](https://guttural-tumble-39b.notion.site/Unattached-Foreground-Inactive-Foreground-Active-Background-Suspended-77fb48c20f8942698462a15c0c4f0ccd)
 - [GCD API 동작 방식과 필요성](https://guttural-tumble-39b.notion.site/GCD-API-f371b438ade84212a581d9bac9c19139)
 - [PresentingViewController as? UINavigationController](https://guttural-tumble-39b.notion.site/PresentingViewController-as-UINavigationController-aa39b0caae9d439ab03502f14997b663)
+- [Thread Safe? How to get over with Thread not safe in GCD](https://guttural-tumble-39b.notion.site/Thread-Safe-How-to-get-over-with-race-Condition-cf91f528ec6040ce9f910a442b544a07)
+
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
