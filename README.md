@@ -43,3 +43,9 @@
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
+
+
+
+## Computer Science
+### Computer Architecture
+- [Performance](https://guttural-tumble-39b.notion.site/Performance-6b7e62b02a6941a381dc3c8e8ace221b)
