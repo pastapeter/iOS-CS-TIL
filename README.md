@@ -49,3 +49,5 @@
 ## Computer Science
 ### Computer Architecture
 - [Performance](https://guttural-tumble-39b.notion.site/Performance-6b7e62b02a6941a381dc3c8e8ace221b)
+- [ISA part1: Design Principles of MIPS](https://guttural-tumble-39b.notion.site/ISA-part1-design-principles-of-MIPS-f6ece2c83df7407090fa6830013930bf)
+
