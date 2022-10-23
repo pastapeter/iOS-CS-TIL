@@ -55,4 +55,8 @@
 ### Computer Architecture
 - [Performance](https://guttural-tumble-39b.notion.site/Performance-6b7e62b02a6941a381dc3c8e8ace221b)
 - [ISA part1: Design Principles of MIPS](https://guttural-tumble-39b.notion.site/ISA-part1-design-principles-of-MIPS-f6ece2c83df7407090fa6830013930bf)
+- [ISA part2: instructions of MIPS ISA](https://guttural-tumble-39b.notion.site/ISA-part2-instructions-of-MIPS-ISA-cffd9b3cd55c4fdd85602de35900f293)
+- [Procedures](https://guttural-tumble-39b.notion.site/Procedures-1b86fd3f712c4674b25a66ae2192bfab)
+- [MIPS memory allocation & Addressing](https://guttural-tumble-39b.notion.site/MIPS-memory-allocation-Addressing-1cc228aa8855429899c2aa345ae80bf4)
+
 
