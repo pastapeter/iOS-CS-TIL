@@ -58,5 +58,5 @@
 - [ISA part2: instructions of MIPS ISA](https://guttural-tumble-39b.notion.site/ISA-part2-instructions-of-MIPS-ISA-cffd9b3cd55c4fdd85602de35900f293)
 - [Procedures](https://guttural-tumble-39b.notion.site/Procedures-1b86fd3f712c4674b25a66ae2192bfab)
 - [MIPS memory allocation & Addressing](https://guttural-tumble-39b.notion.site/MIPS-memory-allocation-Addressing-1cc228aa8855429899c2aa345ae80bf4)
-
+- [Arithmetic For Computers](https://guttural-tumble-39b.notion.site/Arithmetic-For-Computers-5887c6a98db44464b302f7e8d6198ac2)
 
