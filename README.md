@@ -41,7 +41,7 @@
 - [Thread Safe? How to get over with Thread not safe in GCD](https://guttural-tumble-39b.notion.site/Thread-Safe-How-to-get-over-with-race-Condition-cf91f528ec6040ce9f910a442b544a07)
 - [Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](https://guttural-tumble-39b.notion.site/Global-DispatchQueue-Qos-309b305df0c0449a90dba3560bc46b8c)
 - [병렬성 vs 동시성 in swift](https://guttural-tumble-39b.notion.site/vs-ed08d163559b453eb1734295a029d084)
-
+- [UIResponder, Responder Chain](https://guttural-tumble-39b.notion.site/Responder-Responder-Chain-53a2298e4b5b49efb248e4b2471639c3)
 
 
 ## Test
