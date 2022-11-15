@@ -42,7 +42,7 @@
 - [Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](https://guttural-tumble-39b.notion.site/Global-DispatchQueue-Qos-309b305df0c0449a90dba3560bc46b8c)
 - [병렬성 vs 동시성 in swift](https://guttural-tumble-39b.notion.site/vs-ed08d163559b453eb1734295a029d084)
 - [UIResponder, Responder Chain](https://guttural-tumble-39b.notion.site/Responder-Responder-Chain-53a2298e4b5b49efb248e4b2471639c3)
-
+- [Reference in Struct](https://guttural-tumble-39b.notion.site/81f440e935114d56afa2d50b390b3941)
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
