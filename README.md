@@ -43,6 +43,8 @@
 - [병렬성 vs 동시성 in swift](https://guttural-tumble-39b.notion.site/vs-ed08d163559b453eb1734295a029d084)
 - [UIResponder, Responder Chain](https://guttural-tumble-39b.notion.site/Responder-Responder-Chain-53a2298e4b5b49efb248e4b2471639c3)
 - [Reference in Struct](https://guttural-tumble-39b.notion.site/81f440e935114d56afa2d50b390b3941)
+- [Copy on Write vs Copy on assignment](https://guttural-tumble-39b.notion.site/Copy-on-write-vs-Copy-on-assignment-7e78b4c25a954beeaded441a73c29a62)
+
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
