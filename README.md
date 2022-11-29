@@ -45,6 +45,9 @@
 - [Reference in Struct](https://guttural-tumble-39b.notion.site/81f440e935114d56afa2d50b390b3941)
 - [Copy on Write vs Copy on assignment](https://guttural-tumble-39b.notion.site/Copy-on-write-vs-Copy-on-assignment-7e78b4c25a954beeaded441a73c29a62)
 - [About App Bundle](https://guttural-tumble-39b.notion.site/App-Bundle-f2ef4cb312034c1892246af21f8f1a96)
+- [WWDC16 Understanding Swift Performance](https://guttural-tumble-39b.notion.site/WWDC16-Understanding-Swift-performance-42f81acc476944dda3e38d20c8526da2)
+
+
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
