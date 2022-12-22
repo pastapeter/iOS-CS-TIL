@@ -1,4 +1,4 @@
-# iOS / CS (TIL)
+iOS / CS (TIL)
 
 > iOS 앱을 개발하거나, 리펙토링하면서 내가 찾는 버그들을 해결해나가는 과정을 적고 있습니다. 개인 토이프로젝트, 팀 프로젝트를 리펙토링하면서 메모리 누수 및 다양한 버그를 찾아내고 있습니다. 또한 이러한 repository로 다양한 사람들이 어떻게 버그를 고쳤는지 알고, 또한 iOS 앱 리펙터링을 하면서 어떻게? 왜? 했는지를 파악하면 좋겠다는 의미로 repository를 팝니다.
 > 그리고 공부한 내용을 바탕으로 글을 쓴 내용을 정리합니다
@@ -46,7 +46,8 @@
 - [Copy on Write vs Copy on assignment](https://guttural-tumble-39b.notion.site/Copy-on-write-vs-Copy-on-assignment-7e78b4c25a954beeaded441a73c29a62)
 - [About App Bundle](https://guttural-tumble-39b.notion.site/App-Bundle-f2ef4cb312034c1892246af21f8f1a96)
 - [WWDC16 Understanding Swift Performance](https://guttural-tumble-39b.notion.site/WWDC16-Understanding-Swift-performance-42f81acc476944dda3e38d20c8526da2)
-
+- [AnyObject](https://guttural-tumble-39b.notion.site/AnyObject-7e20702e3b7542aa91c0df384cb1e882)
+- [Optional](https://guttural-tumble-39b.notion.site/Optional-Enum-bc0497c125b14ba89b0d45a129dd42f5)
 
 
 ## Test
@@ -71,4 +72,6 @@
 - [Procedures](https://guttural-tumble-39b.notion.site/Procedures-1b86fd3f712c4674b25a66ae2192bfab)
 - [MIPS memory allocation & Addressing](https://guttural-tumble-39b.notion.site/MIPS-memory-allocation-Addressing-1cc228aa8855429899c2aa345ae80bf4)
 - [Arithmetic For Computers](https://guttural-tumble-39b.notion.site/Arithmetic-For-Computers-5887c6a98db44464b302f7e8d6198ac2)
+- [Pipeline Overview](https://guttural-tumble-39b.notion.site/Pipelining-Overview-cb2be28afd854918931396f40fbacf2c)
+- [Pipeline - data Hazards](https://guttural-tumble-39b.notion.site/Pipelining-Overview-cb2be28afd854918931396f40fbacf2c)
 
