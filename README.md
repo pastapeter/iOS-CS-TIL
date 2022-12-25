@@ -45,9 +45,12 @@ iOS / CS (TIL)
 - [Reference in Struct](https://guttural-tumble-39b.notion.site/81f440e935114d56afa2d50b390b3941)
 - [Copy on Write vs Copy on assignment](https://guttural-tumble-39b.notion.site/Copy-on-write-vs-Copy-on-assignment-7e78b4c25a954beeaded441a73c29a62)
 - [About App Bundle](https://guttural-tumble-39b.notion.site/App-Bundle-f2ef4cb312034c1892246af21f8f1a96)
-- [WWDC16 Understanding Swift Performance](https://guttural-tumble-39b.notion.site/WWDC16-Understanding-Swift-performance-42f81acc476944dda3e38d20c8526da2)
 - [AnyObject](https://guttural-tumble-39b.notion.site/AnyObject-7e20702e3b7542aa91c0df384cb1e882)
 - [Optional](https://guttural-tumble-39b.notion.site/Optional-Enum-bc0497c125b14ba89b0d45a129dd42f5)
+
+
+## WWDC
+- [WWDC16 Understanding Swift Performance](https://guttural-tumble-39b.notion.site/WWDC16-Understanding-Swift-performance-42f81acc476944dda3e38d20c8526da2)
 
 
 ## Test
@@ -78,7 +81,7 @@ iOS / CS (TIL)
 - [Cache - Improving Cache Performances](https://guttural-tumble-39b.notion.site/Cache-Improving-Cache-Performance-34fc51cdf9144497b06445636f606a43)
 
 ### Network
-
+- [HTTP의 버전별 발전과정과 각각의 차이 + HTTP/2.0](https://guttural-tumble-39b.notion.site/HTTP-HTTP2-0-5aaa9b70eeac43498cf41cddf1410dc2)
 
 ### General
 [비대칭 암호화란](https://guttural-tumble-39b.notion.site/33a6ecc7c07546bea349e0ec8bb0431b)
