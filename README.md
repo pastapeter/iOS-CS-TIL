@@ -82,6 +82,7 @@ iOS / CS (TIL)
 
 ### Network
 - [HTTP의 버전별 발전과정과 각각의 차이 + HTTP/2.0](https://guttural-tumble-39b.notion.site/HTTP-HTTP2-0-5aaa9b70eeac43498cf41cddf1410dc2)
+- [공유기 작동원리](https://guttural-tumble-39b.notion.site/bd28a2a2ca65406586c3e58d63f32c8e)
 
 ### General
 [비대칭 암호화란](https://guttural-tumble-39b.notion.site/33a6ecc7c07546bea349e0ec8bb0431b)
