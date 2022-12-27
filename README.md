@@ -51,7 +51,7 @@ iOS / CS (TIL)
 
 ## WWDC
 - [WWDC16 Understanding Swift Performance](https://guttural-tumble-39b.notion.site/WWDC16-Understanding-Swift-performance-42f81acc476944dda3e38d20c8526da2)
-
+- [WWDC22 Embracing Swift Generics](https://guttural-tumble-39b.notion.site/WWDC22-Embracing-Swift-Generics-673f11ee58ff4e4487d0c37a31f9ec42)
 
 ## Test
 - [Raywenderlich, TDD 책을 읽고서...](https://github.com/pastapeter/TDD_UnitTest_Study)
