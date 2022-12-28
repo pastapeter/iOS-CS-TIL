@@ -48,6 +48,8 @@ iOS / CS (TIL)
 - [AnyObject](https://guttural-tumble-39b.notion.site/AnyObject-7e20702e3b7542aa91c0df384cb1e882)
 - [Optional](https://guttural-tumble-39b.notion.site/Optional-Enum-bc0497c125b14ba89b0d45a129dd42f5)
 - [ARC](https://guttural-tumble-39b.notion.site/ARC-91ae3cb19c3648d685f8ff7526b2c83b)
+- [Subscripts](https://guttural-tumble-39b.notion.site/Subscripts-96db52b645414155b5ab40b727cb3595)
+
 
 ## WWDC
 - [WWDC16 Understanding Swift Performance](https://guttural-tumble-39b.notion.site/WWDC16-Understanding-Swift-performance-42f81acc476944dda3e38d20c8526da2)
