@@ -85,6 +85,8 @@ iOS / CS (TIL)
 ### OS
 - [System Structure & Program Execution](https://guttural-tumble-39b.notion.site/System-Structure-Program-Execution-cf386923002a439993838255e0847231)
 - [Process(Context Switching, Status, PCB)](https://guttural-tumble-39b.notion.site/Process-Context-Switch-Status-PCB-03585c22b37447eab7971a30866ffa1d)
+- [Thread](https://guttural-tumble-39b.notion.site/Process-Thread-e94715bf08824cfa976c838cd5d50f97)
+
 
 ### Network
 - [HTTP의 버전별 발전과정과 각각의 차이 + HTTP/2.0](https://guttural-tumble-39b.notion.site/HTTP-HTTP2-0-5aaa9b70eeac43498cf41cddf1410dc2)
