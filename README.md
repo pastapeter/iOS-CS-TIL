@@ -49,8 +49,8 @@ iOS / CS (TIL)
 - [Optional](https://guttural-tumble-39b.notion.site/Optional-Enum-bc0497c125b14ba89b0d45a129dd42f5)
 - [ARC](https://guttural-tumble-39b.notion.site/ARC-91ae3cb19c3648d685f8ff7526b2c83b)
 - [Subscripts](https://guttural-tumble-39b.notion.site/Subscripts-96db52b645414155b5ab40b727cb3595)
-- [KVO(https://guttural-tumble-39b.notion.site/KVO-604f25ddbb2a42b6aa9e60b75c4b9c9c)
-
+- [KVO](https://guttural-tumble-39b.notion.site/KVO-604f25ddbb2a42b6aa9e60b75c4b9c9c)
+- [Delegate VS Notification](https://guttural-tumble-39b.notion.site/Delegate-VS-Notification-8759c6971fd24fdb84e67ac69aa6eac9)
 
 
 ## WWDC
