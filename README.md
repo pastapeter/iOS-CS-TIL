@@ -52,7 +52,7 @@ iOS / CS (TIL)
 - [KVO](https://guttural-tumble-39b.notion.site/KVO-604f25ddbb2a42b6aa9e60b75c4b9c9c)
 - [Delegate VS Notification](https://guttural-tumble-39b.notion.site/Delegate-VS-Notification-8759c6971fd24fdb84e67ac69aa6eac9)
 - [동기/비동기 방식에서 최소 Thread갯수 in Swift](https://guttural-tumble-39b.notion.site/Thread-in-Swift-a675003d7d5546c19eb626fd1b6e2ba0)
-
+- [MVC in Apple](https://guttural-tumble-39b.notion.site/MVC-07c10becaedc489db0968acceda883fd)
 
 
 ## WWDC
