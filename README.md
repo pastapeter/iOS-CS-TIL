@@ -94,6 +94,7 @@ iOS / CS (TIL)
 - [Process(Context Switching, Status, PCB)](https://guttural-tumble-39b.notion.site/Process-Context-Switch-Status-PCB-03585c22b37447eab7971a30866ffa1d)
 - [Thread](https://guttural-tumble-39b.notion.site/Process-Thread-e94715bf08824cfa976c838cd5d50f97)
 - [Process Management](https://guttural-tumble-39b.notion.site/Process-Management-979678d5fbae445d964103af6565600b)
+- [CPU Scheduling](https://guttural-tumble-39b.notion.site/CPU-2b9d3ee08d2a4aaa891ba48a8f01df66)
 
 ### Network
 - [HTTP의 버전별 발전과정과 각각의 차이 + HTTP/2.0](https://guttural-tumble-39b.notion.site/HTTP-HTTP2-0-5aaa9b70eeac43498cf41cddf1410dc2)
