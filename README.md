@@ -96,6 +96,12 @@ iOS / CS (TIL)
 - [Process Management](https://guttural-tumble-39b.notion.site/Process-Management-979678d5fbae445d964103af6565600b)
 - [CPU Scheduling](https://guttural-tumble-39b.notion.site/CPU-2b9d3ee08d2a4aaa891ba48a8f01df66)
 
+## Database
+[DB key](https://guttural-tumble-39b.notion.site/d6e74c24fe844900805733ec6e66632f)
+[매우 중요한 index](https://guttural-tumble-39b.notion.site/Index-in-Database-4499f9405d4b43f6bb69b00904a2f4fe)
+
+
+
 ### Network
 - [HTTP의 버전별 발전과정과 각각의 차이 + HTTP/2.0](https://guttural-tumble-39b.notion.site/HTTP-HTTP2-0-5aaa9b70eeac43498cf41cddf1410dc2)
 - [공유기 작동원리](https://guttural-tumble-39b.notion.site/bd28a2a2ca65406586c3e58d63f32c8e)
