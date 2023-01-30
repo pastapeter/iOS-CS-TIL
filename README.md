@@ -97,8 +97,8 @@ iOS / CS (TIL)
 - [CPU Scheduling](https://guttural-tumble-39b.notion.site/CPU-2b9d3ee08d2a4aaa891ba48a8f01df66)
 
 ## Database
-[DB key](https://guttural-tumble-39b.notion.site/d6e74c24fe844900805733ec6e66632f)
-[매우 중요한 index](https://guttural-tumble-39b.notion.site/Index-in-Database-4499f9405d4b43f6bb69b00904a2f4fe)
+- [DB key](https://guttural-tumble-39b.notion.site/d6e74c24fe844900805733ec6e66632f)
+- [매우 중요한 index](https://guttural-tumble-39b.notion.site/Index-in-Database-4499f9405d4b43f6bb69b00904a2f4fe)
 
 
 
