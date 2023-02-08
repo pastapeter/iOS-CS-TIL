@@ -95,6 +95,12 @@ iOS / CS (TIL)
 - [Thread](https://guttural-tumble-39b.notion.site/Process-Thread-e94715bf08824cfa976c838cd5d50f97)
 - [Process Management](https://guttural-tumble-39b.notion.site/Process-Management-979678d5fbae445d964103af6565600b)
 - [CPU Scheduling](https://guttural-tumble-39b.notion.site/CPU-2b9d3ee08d2a4aaa891ba48a8f01df66)
+- [IPC](https://guttural-tumble-39b.notion.site/IPC-eb7b51af50fc44f9a5c1a278cb38ebcd)
+- [인터럽트 처리](https://guttural-tumble-39b.notion.site/2fe957d0b1714670834bf8a4d737ce66)
+- [프로세스 동기화](https://guttural-tumble-39b.notion.site/Process-Synchronization-a498080c0d2d44c58656e50e0ff5597d)
+- [Semaphore](https://guttural-tumble-39b.notion.site/Process-Synchronization-Semaphore-8f8d8ef3b2d048a7a32ba44fa6500ee5)
+
+
 
 ## Database
 - [DB key](https://guttural-tumble-39b.notion.site/d6e74c24fe844900805733ec6e66632f)
