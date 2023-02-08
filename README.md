@@ -53,6 +53,9 @@ iOS / CS (TIL)
 - [Delegate VS Notification](https://guttural-tumble-39b.notion.site/Delegate-VS-Notification-8759c6971fd24fdb84e67ac69aa6eac9)
 - [동기/비동기 방식에서 최소 Thread갯수 in Swift](https://guttural-tumble-39b.notion.site/Thread-in-Swift-a675003d7d5546c19eb626fd1b6e2ba0)
 - [MVC in Apple](https://guttural-tumble-39b.notion.site/MVC-07c10becaedc489db0968acceda883fd)
+- [Mutating Keyword & Capture](https://guttural-tumble-39b.notion.site/Mutating-e08cddd893684dbc90926d56a5e298dd)
+- [Hashable & Equatable](https://guttural-tumble-39b.notion.site/Hashable-Equatable-de9587612d96477db9dafaab212ad609)
+
 
 
 ## WWDC
