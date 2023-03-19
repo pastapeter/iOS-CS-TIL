@@ -77,6 +77,11 @@ iOS / CS (TIL)
 
 ## Computer Science
 
+### Data Structure
+- [Array & Linkedlist](https://guttural-tumble-39b.notion.site/Array-LinkedList-c990f699be2a462b8a90f76bb846a8e7)
+- [Tree, Heap, BST](https://guttural-tumble-39b.notion.site/Heap-Tree-BST-71198a2f422f4a3983ef6f9bdfa7d7eb)
+- [Hash Table](https://guttural-tumble-39b.notion.site/Hash-table-bf32b6aaece8483580920e947828f900)
+
 ### Software Engineering
 - [SRP in iOS, Swift](https://guttural-tumble-39b.notion.site/SRP-Single-Responsibility-Principle-827c0726043748cd812004c4a34fa367)
 
@@ -102,6 +107,10 @@ iOS / CS (TIL)
 - [인터럽트 처리](https://guttural-tumble-39b.notion.site/2fe957d0b1714670834bf8a4d737ce66)
 - [프로세스 동기화](https://guttural-tumble-39b.notion.site/Process-Synchronization-a498080c0d2d44c58656e50e0ff5597d)
 - [Semaphore](https://guttural-tumble-39b.notion.site/Process-Synchronization-Semaphore-8f8d8ef3b2d048a7a32ba44fa6500ee5)
+- [Deadlock](https://guttural-tumble-39b.notion.site/DeadLock-5b4f70f897994b068e682351fae9f0dd)
+- [물리메모리관리1](https://guttural-tumble-39b.notion.site/Memory-Management-1-d5af30d21be544b9b1970dfd765518a9)
+- [물리메모리관리2](https://guttural-tumble-39b.notion.site/Memory-Management2-5d0cd5341a8a44a09d5cb29134a0b39b)
+- [다중프로그래밍환경에서의 메모리 할당](https://guttural-tumble-39b.notion.site/5f5440a7f1f1425896829f0632b40577)
 
 
 
@@ -114,6 +123,11 @@ iOS / CS (TIL)
 ### Network
 - [HTTP의 버전별 발전과정과 각각의 차이 + HTTP/2.0](https://guttural-tumble-39b.notion.site/HTTP-HTTP2-0-5aaa9b70eeac43498cf41cddf1410dc2)
 - [공유기 작동원리](https://guttural-tumble-39b.notion.site/bd28a2a2ca65406586c3e58d63f32c8e)
+- [TCP/IP 4계층](https://guttural-tumble-39b.notion.site/TCP-IP-4-b9644d38ce6f477ba16e42f75b99008a)
+- [프록시](https://guttural-tumble-39b.notion.site/c80818ffe781415daf6314a015ae1ac8)
+- [www.google.com을 주소창에 친다면?](https://guttural-tumble-39b.notion.site/www-google-com-e1b22967f3ce450298cd86b5ae97dbec) 
+
+
 
 ### General
 [비대칭 암호화란](https://guttural-tumble-39b.notion.site/33a6ecc7c07546bea349e0ec8bb0431b)
